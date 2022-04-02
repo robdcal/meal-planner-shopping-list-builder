@@ -1,5 +1,5 @@
 import React from "react";
-import { recipes } from "./recipes.js";
+import { recipes } from "../recipes.js";
 
 const recipesBuilder = [
   <option key="" value="">
